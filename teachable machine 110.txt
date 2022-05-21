@@ -1,0 +1,1 @@
+project 110 : https://teachablemachine.withgoogle.com/models/rCza_zoab/
